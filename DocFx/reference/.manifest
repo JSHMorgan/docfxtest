@@ -1,0 +1,8 @@
+{
+  "ClassLibrary": "ClassLibrary.yml",
+  "ClassLibrary.Class1": "ClassLibrary.Class1.yml",
+  "WFA": "WFA.yml",
+  "WFA.Form1": "WFA.Form1.yml",
+  "WFA.Form1.#ctor": "WFA.Form1.yml",
+  "WFA.Form1.Dispose(System.Boolean)": "WFA.Form1.yml"
+}

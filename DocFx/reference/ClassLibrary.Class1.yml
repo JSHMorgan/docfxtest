@@ -1,0 +1,51 @@
+### YamlMime:ManagedReference
+items:
+- uid: ClassLibrary.Class1
+  commentId: T:ClassLibrary.Class1
+  id: Class1
+  parent: ClassLibrary
+  children: []
+  langs:
+  - csharp
+  - vb
+  name: Class1
+  nameWithType: Class1
+  fullName: ClassLibrary.Class1
+  type: Class
+  source:
+    id: Class1
+    path: D:\Other\docfxtest\ClassLibrary\Class1.cs
+    startLine: 1
+  assemblies:
+  - ClassLibrary
+  namespace: ClassLibrary
+  syntax:
+    content: public class Class1
+    content.vb: Public Class Class1
+  inheritance:
+  - System.Object
+references:
+- uid: ClassLibrary
+  commentId: N:ClassLibrary
+  href: ClassLibrary.html
+  name: ClassLibrary
+  nameWithType: ClassLibrary
+  fullName: ClassLibrary
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System

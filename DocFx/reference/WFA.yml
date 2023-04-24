@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: WFA
+  commentId: N:WFA
+  id: WFA
+  children:
+  - WFA.Form1
+  langs:
+  - csharp
+  - vb
+  name: WFA
+  nameWithType: WFA
+  fullName: WFA
+  type: Namespace
+  assemblies:
+  - WFA
+references:
+- uid: WFA.Form1
+  commentId: T:WFA.Form1
+  href: WFA.Form1.html
+  name: Form1
+  nameWithType: Form1
+  fullName: WFA.Form1

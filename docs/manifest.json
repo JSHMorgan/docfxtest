@@ -1,0 +1,133 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/Other/docfxtest/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Abstract.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Abstract.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Advanced.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Advanced.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Easy/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Easy/Abstract.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Easy/Easy.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Easy/Easy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/ClassLibrary.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ClassLibrary.Class1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/ClassLibrary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/ClassLibrary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/WFA.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/WFA.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/WFA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/WFA.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
